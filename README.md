@@ -70,5 +70,6 @@ We wish you all the best in your future studies and look forward to hearing from
 Warm wishes,
 
 Codepath.org
+
 Office of Admissions
 
