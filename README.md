@@ -38,6 +38,7 @@ Let us know how we can help you at all by replying back to this email.
 All the best,
 
 CodePath.org 
+
 Office of Admissions
 
 ### **Template C**
@@ -54,6 +55,7 @@ We are glad you are here and wish you well. Please feel free to reach us anytime
 
 All the best,
 CodePath.org 
+
 Office of Admissions
 
 
