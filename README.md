@@ -23,6 +23,7 @@ If you have questions, feel free to reply back in this email.
 We are excited to have you and we hope to hear from you soon.
 
 All the best,
+
 CodePath.org Team
 
 ### **Template B**
@@ -35,6 +36,7 @@ We don’t want you to be missed out so **please answer the survey form and subm
 Let us know how we can help you at all by replying back to this email.
 
 All the best,
+
 CodePath.org 
 Office of Admissions
 
