@@ -59,7 +59,6 @@ CodePath.org
 
 Office of Admissions
 
-
 ### **Template D**
 
 Hi Michael,
@@ -77,4 +76,5 @@ Warm wishes,
 Codepath.org
 
 Office of Admissions
+
 
