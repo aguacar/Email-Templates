@@ -67,7 +67,7 @@ Thank you for your interest in our [Interview prep courses](https://codepath.org
 
 We run the courses every summer and during this time we receive a large number of applications worldwide and we already have a long waitlist.
 
-We invite you to apply again to our courses next year and we recommend applying as early as possible. You can use this [high-level software interview ](https://hackmd.io/@nesquena/HJN9k17sm?type=view)guide containing tips and guidelines that you might find helpful. We encourage you to visit our [page](https://codepath.org/classes#) to learn more and [sign up](https://codepath.org/classes#) for our mailing list to keep you updated on our latest announcements.
+We invite you to apply again to our courses next year and we recommend applying as early as possible. You can use this [high-level software interview guide](https://hackmd.io/@nesquena/HJN9k17sm?type=view) containing tips and guidelines that you might find helpful. We encourage you to visit our [page](https://codepath.org/classes#) to learn more and [sign up](https://codepath.org/classes#) for our mailing list to keep you updated on our latest announcements.
 
 We wish you all the best in your future studies and look forward to hearing from you again next year.
 
@@ -76,5 +76,3 @@ Warm wishes,
 Codepath.org
 
 Office of Admissions
-
-
