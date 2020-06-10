@@ -44,7 +44,7 @@ Office of Admissions
 ### **Template C**
 Dear Cassandra,
 
-Congratulations to your admission to CodePath.org for a Cybersecurity course you applied for. We, the Codepath.org Office of Admissions, are glad to have you join the chosen group of individuals.
+Congratulations to your admission to CodePath.org for a Cybersecurity course! We, the Codepath.org Office of Admissions, are glad to have you join the chosen group of individuals.
 
 You have been selected to participate on your campus. During this course, **you will meet twice a week, virtual via Zoom, starting June 15 and the course will run for 12 weeks**.
 
